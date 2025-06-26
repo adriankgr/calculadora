@@ -1,8 +1,6 @@
-# Calculadora
+# Calculadora com Tkinter
 
 Este é um projeto de uma calculadora simples desenvolvida em Python utilizando a biblioteca Tkinter para a interface gráfica. A calculadora realiza operações básicas como soma, subtração, multiplicação e divisão.
-
----
 
 ## Funcionalidades
 
@@ -12,8 +10,6 @@ Este é um projeto de uma calculadora simples desenvolvida em Python utilizando 
 - Botão para calcular o resultado (`=`)
 - Tratamento de erros em expressões inválidas
 
----
-
 ## Como executar
 
 1. Certifique-se de ter o Python instalado (versão 3.x recomendada).  
@@ -22,13 +18,12 @@ Este é um projeto de uma calculadora simples desenvolvida em Python utilizando 
 
 ```bash
 python calculadora.py
+```
 
 ## Requisitos
 
 - Python 3.x  
 - Biblioteca Tkinter (normalmente já vem instalada com o Python)
-
----
 
 ## Como usar
 
@@ -36,21 +31,10 @@ python calculadora.py
 - Clique em `=` para ver o resultado.  
 - Clique em `C` para limpar a tela e começar uma nova operação.
 
----
-
-## Exemplo de uso
-
-![Screenshot da calculadora](screenshot.png)  
-*(Se desejar, inclua uma imagem da calculadora aqui)*
-
----
-
 ## Licença
 
 Este projeto é open source e pode ser usado e modificado livremente.
 
----
-
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato: [seu-email@exemplo.com]
+Para dúvidas ou sugestões, entre em contato!
